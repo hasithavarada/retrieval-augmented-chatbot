@@ -26,5 +26,3 @@ Recruiters LOVE visuals.
 - Generated context-aware responses via transformer models with prompt + retrieved context injection
 - Evaluated generated responses using ROUGE metrics (ROUGE-L F1 ≈ 0.43)
 
-**GitHub:**  
-
