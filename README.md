@@ -48,3 +48,11 @@ corpus.
 ```bash
 pip install -r requirements.txt
 jupyter notebook
+
+## 🔹 Repository Structure
+md
+Copy code
+├── notebooks/       # Jupyter notebook with full RAG pipeline
+├── README.md
+├── requirements.txt
+└── screenshots/
